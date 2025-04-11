@@ -1,15 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAshraf2222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">Hi 👋, I'm Mohamed Ashraf</h2>
 
 ###
@@ -19,6 +7,18 @@
 ###
 
 <p align="left">🌱 I’m currently learning React Native<br><br>👨‍💻 Some of my projects are available at https://mohamed-ashraf-portfolio.vercel.app/<br><br>💬 Ask me about React<br><br>📫 How to reach me mohammed2shraf22@gmail.com</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAshraf2222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ###
 
